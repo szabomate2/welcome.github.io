@@ -1,0 +1,1 @@
+In this repository the files for the static github welcome website are stored. <br> This simple `html` website is based on `bootstrap` and a free template was used to build it.
